@@ -43,6 +43,6 @@ Weekly greenhouse air index. There are dimensions of carbon dioxide, temperature
  - r2_score = 0.9877
  - [notebook](LSTM.ipynb)
 
-## Compare
+## [Compare](Compare.ipynb)
 
 ![img](compare.png)
