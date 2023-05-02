@@ -2,7 +2,7 @@
 
 "Time series" is a term commonly used in the field of statistics and data analysis. It refers to a collection of data points that are measured over a period of time. Each data point in the series is typically recorded in chronological order, with a corresponding timestamp indicating when it was measured.
 
-![img](https://www.springboard.com/blog/wp-content/uploads/2022/09/time-series-forecasting-overview.png)
+![img](https://www.influxdata.com/wp-content/uploads/time-series-data-weather-data.png)
 
 Time series data can be used for a wide range of applications, such as forecasting future trends, identifying patterns or cycles in the data, and making informed decisions based on historical performance. Examples of time series data include stock prices over time, temperature readings over the course of a day or year, and the number of website visitors per hour.
 
